@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# terraform
+.terraform.lock.hcl
+.terraform
+
+# intermediates
+functions.zip
