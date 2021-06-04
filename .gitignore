@@ -4,6 +4,8 @@
 # terraform
 .terraform.lock.hcl
 .terraform
+terraform.tfstate
+terraform.tfstate.backup
 
 # intermediates
 functions.zip
